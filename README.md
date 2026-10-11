@@ -1,6 +1,1 @@
-# theodinproject
-# theodinproject
-# theodinproject
-# theodinproject
-# theodinproject
-# theodinproject
+# Odin Project Course
